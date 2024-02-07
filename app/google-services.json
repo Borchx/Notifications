@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539726443663",
+    "project_id": "notifications-92040",
+    "storage_bucket": "notifications-92040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539726443663:android:57d688ab87077a130b6cfa",
+        "android_client_info": {
+          "package_name": "com.borja.android.basicnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiZs8F71BHqqA0ttHn-J8mAE02aPBDIRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
